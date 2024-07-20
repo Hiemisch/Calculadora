@@ -1,0 +1,16 @@
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.sourcelink.json
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+C:\Users\Hiemisch\Documents\Repos\Calculadora\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
