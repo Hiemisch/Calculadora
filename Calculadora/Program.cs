@@ -27,15 +27,16 @@ namespace Calculadora
 
                 Console.WriteLine("{0} {1} {2} = {3}", operacao.valorA, operacao.operador, operacao.valorB, operacao.resultado);
 
-                Console.WriteLine("Operações restantes:");
+                Console.WriteLine("\nOperações restantes:");
                 foreach (var op in filaOperacoes)
                 {
                     Console.WriteLine("{0} {1} {2}", op.valorA, op.operador, op.valorB);
                 }
+                Console.WriteLine("----------------------");
                 Console.WriteLine();
             }
 
-            Console.WriteLine("Resultados na ordem original:");
+            Console.WriteLine("Resultados:");
             var listaTemp = new List<decimal>(pilhaResultados);
             listaTemp.Reverse();
             foreach (var resultado in listaTemp)
